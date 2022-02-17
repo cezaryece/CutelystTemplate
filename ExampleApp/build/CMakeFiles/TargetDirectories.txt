@@ -1,0 +1,6 @@
+/home/czarek/Github/CutelystTemplate/ExampleApp/build/CMakeFiles/rebuild_cache.dir
+/home/czarek/Github/CutelystTemplate/ExampleApp/build/CMakeFiles/edit_cache.dir
+/home/czarek/Github/CutelystTemplate/ExampleApp/build/src/CMakeFiles/rebuild_cache.dir
+/home/czarek/Github/CutelystTemplate/ExampleApp/build/src/CMakeFiles/edit_cache.dir
+/home/czarek/Github/CutelystTemplate/ExampleApp/build/src/CMakeFiles/ExampleApp.dir
+/home/czarek/Github/CutelystTemplate/ExampleApp/build/src/CMakeFiles/ExampleApp_autogen.dir
