@@ -67,3 +67,4 @@ Thumbs.db
 *.dll
 *.exe
 *.pro.user.*
+*.user
