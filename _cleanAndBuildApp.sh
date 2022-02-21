@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
 
 let $# || { echo No application name supplied; exit 1; }  # Exit if no arguments!
-ls
+
 cd $1
 cd build
+rm *
 cmake ..
 make
 
