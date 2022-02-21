@@ -24,6 +24,10 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 DISTFILES += \
+    README.md \
+    _cleanAndBuildApp.sh \
+    _createCutelystApp.sh \
+    _runCutelystServer.sh \
     cleanAndBuildApp.sh \
     createCutelystApp.sh \
     runCutelystServer.sh

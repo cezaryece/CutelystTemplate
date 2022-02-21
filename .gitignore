@@ -34,7 +34,7 @@ Thumbs.db
 *.rc
 /.qmake.cache
 /.qmake.stash
-
+*.user
 # xemacs temporary files
 *.flc
 
@@ -66,4 +66,4 @@ Thumbs.db
 # --------
 *.dll
 *.exe
-
+*.pro.user.*
